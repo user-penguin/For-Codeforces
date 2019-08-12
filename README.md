@@ -2,7 +2,8 @@
 
 ### Задачи:
 ### Ин прогресс:
-* [Bit++][1]
 ### Финишд:
+* [Bit++][1]
+
 
 [1]:http://codeforces.com/problemset/problem/282/A
